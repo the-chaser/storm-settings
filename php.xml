@@ -1,12 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\Program Files (x86)\PHP\v5.6\php.exe" id="cb8a5b27-dff5-4843-b09a-d07b29d209b9" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="vagrant://C:/Users/xander/Websites/homestead/usr/bin/php" id="223f1230-07d3-4dfe-8932-497416d95e21" name="Homestead" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Websites/homestead" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">

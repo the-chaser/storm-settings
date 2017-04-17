@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="SMART_BACKSPACE" value="2" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
-  </component>
-</application>
