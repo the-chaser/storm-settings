@@ -1,0 +1,24 @@
+<application>
+  <component name="SlackStorage">
+    <option name="settings">
+      <map>
+        <entry key="general" value="https://hooks.slack.com/services/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" />
+      </map>
+    </option>
+    <option name="aliases">
+      <map>
+        <entry key="general" value="SlackStorm" />
+      </map>
+    </option>
+    <option name="icons">
+      <map>
+        <entry key="general" value=":thunder_cloud_and_rain:" />
+      </map>
+    </option>
+    <option name="channels">
+      <map>
+        <entry key="general" value="general" />
+      </map>
+    </option>
+  </component>
+</application>

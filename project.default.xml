@@ -1,0 +1,117 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Default" />
+          <inspection_tool class="JSDuplicatedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PhpUndefinedMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="SassScssResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+            <option name="processCode" value="true" />
+            <option name="processLiterals" value="true" />
+            <option name="processComments" value="true" />
+          </inspection_tool>
+        </profile>
+        <option name="projectProfile" value="Default" />
+        <option name="PROJECT_PROFILE" value="Default" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>UndefinedPHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>PhpUndefinedMethodInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+        <entry key="Default copy">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Code SmellPHP</id>
+              </State>
+              <State>
+                <id>Code StylePHP</id>
+              </State>
+              <State>
+                <id>Control FlowPHP</id>
+              </State>
+              <State>
+                <id>GeneralPHP</id>
+              </State>
+              <State>
+                <id>Naming conventionsPHP</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>PHP Strict StandardsPHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>PHP Strict StandardsPHP</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2972973" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
