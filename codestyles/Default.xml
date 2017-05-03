@@ -9,6 +9,7 @@
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
+    <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
@@ -17,7 +18,6 @@
     <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
     <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
-    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="Blade">
     <indentOptions>
