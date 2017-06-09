@@ -4,7 +4,7 @@
     <property name="created">2017-03-14T14:33:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-06-09T13:17:37</property>
+    <property name="modified">2017-06-09T14:15:01</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -767,6 +767,13 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="75fff3" />
+        <option name="BACKGROUND" value="8121ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
