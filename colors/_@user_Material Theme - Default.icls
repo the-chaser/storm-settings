@@ -4,7 +4,7 @@
     <property name="created">2017-03-14T14:33:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-06-09T12:53:33</property>
+    <property name="modified">2017-06-09T13:17:37</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
@@ -1628,6 +1628,11 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
+    <option name="SASS_DOT">
+      <value>
+        <option name="FOREGROUND" value="ffc251" />
+      </value>
+    </option>
     <option name="SASS_EXTEND">
       <value>
         <option name="FOREGROUND" value="c792ea" />
@@ -1635,12 +1640,17 @@
     </option>
     <option name="SASS_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="99c5f7" />
       </value>
     </option>
     <option name="SASS_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="3fffa" />
+      </value>
+    </option>
+    <option name="SASS_ID_SELECTOR">
+      <value>
+        <option name="FOREGROUND" value="7ae4f9" />
       </value>
     </option>
     <option name="SASS_IMPORTANT">
@@ -1660,17 +1670,28 @@
     </option>
     <option name="SASS_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="bef779" />
+      </value>
+    </option>
+    <option name="SASS_OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="c666f5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="fffffb" />
       </value>
     </option>
     <option name="SASS_PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="c463f7" />
+      </value>
+    </option>
+    <option name="SASS_PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="75fff3" />
       </value>
     </option>
     <option name="SASS_STRING">
@@ -1680,17 +1701,22 @@
     </option>
     <option name="SASS_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="c0f06e" />
+      </value>
+    </option>
+    <option name="SASS_UNICODE_RANGE">
+      <value>
+        <option name="FOREGROUND" value="f1f5b7" />
       </value>
     </option>
     <option name="SASS_URL">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="f7f69e" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="cbf786" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -1760,7 +1786,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="263238" />
+        <option name="BACKGROUND" value="292c33" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
