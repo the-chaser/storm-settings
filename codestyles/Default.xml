@@ -1,5 +1,6 @@
 <code_scheme name="Default">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_KEEP_BLANK_LINES" value="0" />
   <JSCodeStyleSettings>
