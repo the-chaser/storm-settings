@@ -6,6 +6,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="conversion" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__www.googleadservices.com_pagead_conversion.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__www.googleadservices.com_pagead_conversion.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
