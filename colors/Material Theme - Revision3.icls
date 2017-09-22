@@ -4,7 +4,7 @@
     <property name="created">2017-09-22T11:28:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-09-22T11:37:21</property>
+    <property name="modified">2017-09-22T12:13:34</property>
     <property name="originalScheme">Material Theme - Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -353,7 +353,7 @@
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="82b1ff" />
+        <option name="FOREGROUND" value="fd44ff" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -455,7 +455,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="82b1ff" />
+        <option name="FOREGROUND" value="a2c5ff" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -720,7 +720,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="92bdec" />
+        <option name="FOREGROUND" value="e957ec" />
       </value>
     </option>
     <option name="HTML_TAG">
@@ -730,7 +730,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="fbfffb" />
+        <option name="FOREGROUND" value="fff067" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -748,7 +748,7 @@
     </option>
     <option name="IGNORE.VALUE">
       <value>
-        <option name="FOREGROUND" value="c77554" />
+        <option name="FOREGROUND" value="ff8b00" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1182,7 +1182,7 @@
     </option>
     <option name="PHP_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="82b1ff" />
+        <option name="FOREGROUND" value="4affeb" />
       </value>
     </option>
     <option name="PHP_HEREDOC_ID">
@@ -1197,7 +1197,7 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="82b1ff" />
+        <option name="FOREGROUND" value="ffbe" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
@@ -1207,7 +1207,7 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="daea" />
+        <option name="FOREGROUND" value="c9a0ea" />
       </value>
     </option>
     <option name="PHP_OPERATION_SIGN">
@@ -1234,14 +1234,19 @@
         <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
+    <option name="PHP_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="ffbb" />
+      </value>
+    </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="95d0cb" />
+        <option name="FOREGROUND" value="fdfffd" />
       </value>
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="faff70" />
+        <option name="FOREGROUND" value="f1ff" />
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
@@ -1630,9 +1635,23 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="SASS_BRACES">
+      <value>
+        <option name="FOREGROUND" value="d9ff56" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="SASS_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="23fdff" />
+        <option name="FOREGROUND" value="c0f06e" />
+      </value>
+    </option>
+    <option name="SASS_COLON">
+      <value>
+        <option name="FOREGROUND" value="ff00f9" />
+        <option name="BACKGROUND" value="292c33" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="SASS_COLOR">
@@ -1653,7 +1672,8 @@
     </option>
     <option name="SASS_DOT">
       <value>
-        <option name="FOREGROUND" value="ffc251" />
+        <option name="FOREGROUND" value="b3fffc" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_EXTEND">
@@ -1698,23 +1718,29 @@
     </option>
     <option name="SASS_OPERATORS">
       <value>
-        <option name="FOREGROUND" value="c666f5" />
+        <option name="FOREGROUND" value="f5d328" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="c2d0ff" />
+        <option name="FOREGROUND" value="f9fbff" />
       </value>
     </option>
     <option name="SASS_PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="65f7e7" />
+        <option name="FOREGROUND" value="1addff" />
       </value>
     </option>
     <option name="SASS_PSEUDO">
       <value>
         <option name="FOREGROUND" value="9fffa0" />
+      </value>
+    </option>
+    <option name="SASS_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="67ffe6" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_STRING">
@@ -1724,7 +1750,7 @@
     </option>
     <option name="SASS_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="c0f06e" />
+        <option name="FOREGROUND" value="bf069" />
       </value>
     </option>
     <option name="SASS_UNICODE_RANGE">
