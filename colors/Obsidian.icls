@@ -315,7 +315,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="668cb0" />
+        <option name="FOREGROUND" value="67ce8e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -549,7 +549,7 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="95f3ff" />
+        <option name="FOREGROUND" value="f0fc8c" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
@@ -591,7 +591,7 @@
     </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="a6de78" />
+        <option name="FOREGROUND" value="de97a2" />
       </value>
     </option>
     <option name="PHP_TAG">
@@ -631,6 +631,16 @@
         <option name="FOREGROUND" value="808000" />
       </value>
     </option>
+    <option name="SASS_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="9e9ff" />
+      </value>
+    </option>
+    <option name="SASS_ID_SELECTOR">
+      <value>
+        <option name="FOREGROUND" value="38c7c4" />
+      </value>
+    </option>
     <option name="SASS_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff5600" />
@@ -639,7 +649,17 @@
     </option>
     <option name="SASS_PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="9af3fa" />
+        <option name="FOREGROUND" value="93c763" />
+      </value>
+    </option>
+    <option name="SASS_PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="bc87ff" />
+      </value>
+    </option>
+    <option name="SASS_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="b4e3ee" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
