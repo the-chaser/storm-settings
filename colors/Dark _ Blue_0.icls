@@ -717,9 +717,9 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="b6b458" />
+        <option name="BACKGROUND" value="145b6d" />
+        <option name="EFFECT_COLOR" value="a1d4ee" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -1145,6 +1145,12 @@
     <option name="SASS_IMPORTANT">
       <value>
         <option name="FOREGROUND" value="7673e4" />
+      </value>
+    </option>
+    <option name="SASS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff7f08" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_MIXIN">
