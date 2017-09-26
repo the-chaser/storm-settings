@@ -1137,6 +1137,12 @@
         <option name="FOREGROUND" value="7673e4" />
       </value>
     </option>
+    <option name="SASS_DOT">
+      <value>
+        <option name="FOREGROUND" value="e3d1ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="SASS_EXTEND">
       <value>
         <option name="FOREGROUND" value="28b7ff" />
