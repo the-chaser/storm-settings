@@ -30,6 +30,12 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="7bff" />
     <option name="GUTTER_BACKGROUND" value="191828" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="ff6a" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="ff79b4" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="c4ff" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="ff5194" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="8400f6" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="ff4100" />
     <option name="INDENT_GUIDE" value="3a374b" />
     <option name="LINE_NUMBERS_COLOR" value="504d6e" />
     <option name="METHOD_SEPARATORS_COLOR" value="3a374b" />
@@ -559,14 +565,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="IGNORE.BRACKET" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="IGNORE.COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="IGNORE.HEADER" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
-    <option name="IGNORE.NEGATION" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="IGNORE.SECTION" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="IGNORE.SLASH" baseAttributes="DEFAULT_COMMA" />
-    <option name="IGNORE.SYNTAX" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="IGNORE.VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b389c5" />
@@ -783,9 +781,19 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="edff" />
+      </value>
+    </option>
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="978af9" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="516bff" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
@@ -793,9 +801,15 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="PHP_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="516bff" />
+      </value>
+    </option>
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="dee3ec" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
