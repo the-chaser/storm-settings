@@ -740,7 +740,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="95df48" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
