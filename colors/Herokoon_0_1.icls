@@ -553,6 +553,11 @@
         <option name="FOREGROUND" value="ff4427" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="9dcfed" />
+      </value>
+    </option>
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="6e7a94" />
