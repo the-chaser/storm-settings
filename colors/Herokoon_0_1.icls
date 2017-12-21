@@ -1,8 +1,5 @@
 <scheme name="Herokoon" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="10" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -30,7 +27,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="7bff" />
     <option name="GUTTER_BACKGROUND" value="191828" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="ff6a" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="aa47" />
     <option name="HTML_TAG_TREE_LEVEL1" value="ff79b4" />
     <option name="HTML_TAG_TREE_LEVEL2" value="c4ff" />
     <option name="HTML_TAG_TREE_LEVEL3" value="ff5194" />
