@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="11" />
     <option name="FONT_FAMILY" value="DejaVuSansMono Nerd Font" />
+    <option name="LINE_SPACING" value="0.9" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">

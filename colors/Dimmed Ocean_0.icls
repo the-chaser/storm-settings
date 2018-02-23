@@ -4,14 +4,14 @@
     <property name="created">2016-10-09T23:49:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2018-02-23T12:58:30</property>
+    <property name="modified">2018-02-23T13:42:54</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="2c323c" />
+    <option name="CARET_ROW_COLOR" value="d2138" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -28,23 +28,23 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="282c34" />
+    <option name="GUTTER_BACKGROUND" value="263238" />
     <option name="HTML_TAG_TREE_LEVEL0" value="bc606b" />
     <option name="HTML_TAG_TREE_LEVEL1" value="eaca8e" />
     <option name="HTML_TAG_TREE_LEVEL2" value="a4bd8d" />
     <option name="HTML_TAG_TREE_LEVEL3" value="97b5b4" />
     <option name="HTML_TAG_TREE_LEVEL4" value="90a1b2" />
     <option name="HTML_TAG_TREE_LEVEL5" value="b38eac" />
-    <option name="INDENT_GUIDE" value="185a5c" />
+    <option name="INDENT_GUIDE" value="f2844" />
     <option name="LINE_NUMBERS_COLOR" value="505b66" />
     <option name="METHOD_SEPARATORS_COLOR" value="c0c5ce" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
-    <option name="NOTIFICATION_BACKGROUND" value="3c3f41" />
+    <option name="NOTIFICATION_BACKGROUND" value="d3dee5" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
-    <option name="SELECTED_INDENT_GUIDE" value="0" />
-    <option name="SELECTED_TEARLINE_COLOR" value="282c34" />
-    <option name="SELECTION_BACKGROUND" value="3e4451" />
+    <option name="SELECTED_INDENT_GUIDE" value="ffffff" />
+    <option name="SELECTED_TEARLINE_COLOR" value="a5bcca" />
+    <option name="SELECTION_BACKGROUND" value="142b4f" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="656565" />
     <option name="WHITESPACES" value="505050" />
@@ -788,7 +788,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="eaca8e" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="23fbf6" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -868,6 +870,12 @@
         <option name="FOREGROUND" value="ce8672" />
       </value>
     </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="37abb3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="70eb8c" />
@@ -886,7 +894,8 @@
     </option>
     <option name="SASS_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7eb367" />
+        <option name="FOREGROUND" value="b30a75" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_MIXIN">
@@ -935,8 +944,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="515f66" />
-        <option name="BACKGROUND" value="192c34" />
+        <option name="FOREGROUND" value="ebf6ff" />
+        <option name="BACKGROUND" value="a1b2e" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
