@@ -4,8 +4,9 @@
     <property name="created">2016-10-09T23:49:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2018-02-23T13:42:54</property>
+    <property name="modified">2018-02-23T17:14:46</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="0.9" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <colors>
@@ -644,7 +645,7 @@
     </option>
     <option name="JS.BRACES">
       <value>
-        <option name="FOREGROUND" value="abb2b6" />
+        <option name="FOREGROUND" value="f0faff" />
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
@@ -667,12 +668,12 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="90a1b2" />
+        <option name="FOREGROUND" value="3ee2da" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="abb2ba" />
+        <option name="FOREGROUND" value="ffb56d" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -682,13 +683,24 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="90a1b2" />
+        <option name="FOREGROUND" value="e4e4" />
+      </value>
+    </option>
+    <option name="JS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="d7d628" />
       </value>
     </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="90a1b2" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="35ffbf" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -698,7 +710,7 @@
     </option>
     <option name="JS.STRING">
       <value>
-        <option name="FOREGROUND" value="a4bd8d" />
+        <option name="FOREGROUND" value="bbf792" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
