@@ -1,8 +1,5 @@
 <scheme name="FlatDark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -245,7 +242,7 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="49a3df" />
+        <option name="FOREGROUND" value="c8dedf" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">

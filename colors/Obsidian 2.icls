@@ -1,15 +1,11 @@
 <scheme name="Obsidian 2" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-09-25T11:39:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-09-25T11:39:08</property>
+    <property name="modified">2018-02-23T12:20:37</property>
     <property name="originalScheme">Obsidian</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.05" />
-  <option name="EDITOR_FONT_SIZE" value="10" />
-  <option name="EDITOR_FONT_NAME" value="Hasklug Nerd Font" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9933" />
     <option name="CARET_COLOR" value="c1cbd2" />

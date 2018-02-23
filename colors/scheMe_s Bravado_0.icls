@@ -1,8 +1,5 @@
 <scheme name="scheMe's Bravado" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.05" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
