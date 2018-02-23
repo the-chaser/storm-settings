@@ -1,16 +1,16 @@
 <scheme name="Obsidian" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.05" />
-  <option name="EDITOR_FONT_SIZE" value="10" />
-  <option name="EDITOR_FONT_NAME" value="Hasklug Nerd Font" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="DejaVuSansMono Nerd Font" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9933" />
     <option name="CARET_COLOR" value="c1cbd2" />
     <option name="CARET_ROW_COLOR" value="252b2e" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_MODIFIED" value="ff" />
-    <option name="GUTTER_BACKGROUND" value="3f4b4e" />
-    <option name="INDENT_GUIDE" value="343f41" />
+    <option name="GUTTER_BACKGROUND" value="" />
+    <option name="INDENT_GUIDE" value="3e4f54" />
     <option name="LEFT_GUTTER_BACKGROUND" value="3f4b4e" />
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
     <option name="METHOD_SEPARATORS_COLOR" value="464f53" />
