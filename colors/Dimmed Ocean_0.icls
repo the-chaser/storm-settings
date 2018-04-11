@@ -4,7 +4,7 @@
     <property name="created">2016-10-09T23:49:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2018-04-11T10:43:21</property>
+    <property name="modified">2018-04-11T11:58:52</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
   <option name="EDITOR_FONT_SIZE" value="11" />
@@ -638,9 +638,8 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="fffe74" />
-        <option name="BACKGROUND" value="4a4f00" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="458e8e" />
+        <option name="BACKGROUND" value="4c4f" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
