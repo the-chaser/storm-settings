@@ -4,11 +4,14 @@
     <property name="created">2016-10-09T23:49:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2018-02-27T16:59:11</property>
+    <property name="modified">2018-04-11T10:43:21</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="DejaVuSansMono Nerd Font" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_LINE_SPACING" value="0.9" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -631,6 +634,13 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="f6f3e8" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="fffe74" />
+        <option name="BACKGROUND" value="4a4f00" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
