@@ -4,7 +4,7 @@
     <property name="created">2016-10-09T23:49:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2018-04-11T11:58:52</property>
+    <property name="modified">2018-07-06T11:35:56</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
   <option name="EDITOR_FONT_SIZE" value="11" />
@@ -966,7 +966,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ebf6ff" />
-        <option name="BACKGROUND" value="a1b2e" />
+        <option name="BACKGROUND" value="d243c" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
