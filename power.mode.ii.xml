@@ -1,18 +1,17 @@
 <application>
   <component name="PowerModeII">
-    <option name="blueFrom" value="98" />
-    <option name="blueTo" value="210" />
+    <option name="blueFrom" value="252" />
+    <option name="blueTo" value="252" />
+    <option name="customBamImageFolder" value="$USER_HOME$" />
+    <option name="customFlameImageFolder" value="$USER_HOME$" />
     <option name="flamesEnabled" value="false" />
     <option name="gravityFactor" value="10.61" />
-    <option name="greenFrom" value="36" />
-    <option name="greenTo" value="236" />
     <option name="isPowerIndicatorEnabled" value="false" />
-    <option name="redFrom" value="40" />
-    <option name="redTo" value="136" />
+    <option name="redFrom" value="0" />
     <option name="shakeEnabled" value="false" />
-    <option name="sparkCount" value="14" />
+    <option name="soundsFolder" value="$USER_HOME$" />
+    <option name="sparkCount" value="21" />
     <option name="sparkLife" value="3531" />
-    <option name="sparkSize" value="2" />
     <option name="sparkVelocityFactor" value="10.2" />
   </component>
 </application>
