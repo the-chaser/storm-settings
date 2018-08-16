@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="@php" value="@php&#10;    $END$&#10;@endphp" toReformat="false" toShortenFQNames="true">
+  <template name="@php" value="@php&#10;    $END$&#10;@endphp" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
       <option name="Twig" value="true" />
