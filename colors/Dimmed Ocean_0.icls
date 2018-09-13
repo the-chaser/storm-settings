@@ -4,7 +4,7 @@
     <property name="created">2016-10-09T23:49:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2018-08-03T16:04:47</property>
+    <property name="modified">2018-09-11T16:48:29</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
   <option name="EDITOR_FONT_SIZE" value="11" />
@@ -39,7 +39,7 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="90a1b2" />
     <option name="HTML_TAG_TREE_LEVEL5" value="b38eac" />
     <option name="INDENT_GUIDE" value="f2844" />
-    <option name="LINE_NUMBERS_COLOR" value="505b66" />
+    <option name="LINE_NUMBERS_COLOR" value="3cfdff" />
     <option name="METHOD_SEPARATORS_COLOR" value="c0c5ce" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="d3dee5" />
