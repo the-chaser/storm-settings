@@ -4,7 +4,7 @@
     <property name="created">2016-10-09T23:49:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2018-09-11T16:48:29</property>
+    <property name="modified">2018-09-14T15:15:04</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
   <option name="EDITOR_FONT_SIZE" value="11" />
@@ -867,12 +867,13 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ce8672" />
+        <option name="FOREGROUND" value="9b62ce" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff7830" />
+        <option name="FOREGROUND" value="beff37" />
       </value>
     </option>
     <option name="PHP_NUMBER">
