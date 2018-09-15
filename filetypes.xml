@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.css.liquid" type="CSS" />
+      <mapping pattern="*.js.liquid" type="JavaScript" />
+      <mapping pattern=".gulpfile" type="PLAIN_TEXT" />
+      <mapping ext="rake" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping pattern="*.scss.liquid" type="SCSS" />
+      <mapping ext="liquid" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
