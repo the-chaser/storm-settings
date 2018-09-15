@@ -2,8 +2,10 @@
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="FONT_FACE" value="Noto Sans Display SemiBold Nerd Font Complete" />
     <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="11" />
+    <option name="FONT_SIZE" value="10" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
