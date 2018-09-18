@@ -29,6 +29,10 @@
     <option name="IS_TRAILING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingOpacity" value="25" />
