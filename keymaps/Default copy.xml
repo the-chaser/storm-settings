@@ -7,6 +7,10 @@
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
