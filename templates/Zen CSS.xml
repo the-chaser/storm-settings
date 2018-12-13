@@ -1,5 +1,5 @@
 <templateSet group="Zen CSS">
-  <template name="bp-mobile-max" value="@media (max-width:$tabletp - 1px) {&#10;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="bp-mobile-max" value="@media (max-width:$tabletp - 1px) {&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
@@ -19,7 +19,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="bp-tablet-only" value="@media (min-width:$tabletp) and (max-width:$tabletl) {&#10;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="bp-tablet-only" value="@media (min-width:$tabletp) and (max-width:$tabletl) {&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
@@ -39,7 +39,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="bp-tablet-min" value="@media (min-width:$tabletp) {&#10;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="bp-tablet-min" value="@media (min-width:$tabletp) {&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
@@ -59,7 +59,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="bp-desktop-min" value="@media (min-width:$tabletl + 1px) {&#10;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="bp-desktop-min" value="@media (min-width:$tabletl + 1px) {&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
@@ -79,7 +79,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="bp-tablet-max" value="@media (max-width:$tabletl) {&#10;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="bp-tablet-max" value="@media (max-width:$tabletl) {&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
