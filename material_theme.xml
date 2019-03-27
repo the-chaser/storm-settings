@@ -3,21 +3,19 @@
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
-    <option name="tabOpacity" value="85" />
-    <option name="treeFontSize" value="14" />
+    <option name="tabOpacity" value="100" />
     <option name="leftTreeIndent" value="2" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="tabsHeight" value="15" />
+    <option name="tabsHeight" value="18" />
     <option name="accentColor" value="7fc8cb" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColor" value="c2cb00" />
     <option name="userId" value="617f5b6a:164d3083c0a:-7fff" />
     <option name="version" value="3.5.0.1" />
   </component>
