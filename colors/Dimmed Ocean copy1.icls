@@ -4,7 +4,7 @@
     <property name="created">2019-03-26T15:23:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-27T11:58:28</property>
+    <property name="modified">2019-05-09T14:32:23</property>
     <property name="originalScheme">Dimmed Ocean copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -607,7 +607,7 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="8ea2bb" />
+        <option name="FOREGROUND" value="a4babb" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
@@ -1018,6 +1018,7 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d1243b" />
+        <option name="BACKGROUND" value="290006" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
