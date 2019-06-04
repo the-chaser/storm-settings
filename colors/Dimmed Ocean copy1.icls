@@ -4,7 +4,7 @@
     <property name="created">2019-03-26T15:23:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-05-09T14:32:23</property>
+    <property name="modified">2019-06-04T09:13:12</property>
     <property name="originalScheme">Dimmed Ocean copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -15,7 +15,7 @@
   <option name="CONSOLE_LINE_SPACING" value="0.9" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="CARET_COLOR" value="bbbbbb" />
+    <option name="CARET_COLOR" value="bcff00" />
     <option name="CARET_ROW_COLOR" value="d2138" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
     <option name="FILESTATUS_ADDED" value="629755" />
@@ -816,7 +816,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="23fbf6" />
+        <option name="BACKGROUND" value="417b7c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
