@@ -119,7 +119,7 @@
       <option name="CSS" value="true" />
     </context>
   </template>
-  <template name="ie-only" value="@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {&#10;&#10;}" shortcut="TAB" toReformat="false" toShortenFQNames="true">
+  <template name="ie-only" value="@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {&#10;&#10;}" shortcut="TAB" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="true" />
     </context>
