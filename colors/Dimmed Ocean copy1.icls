@@ -4,7 +4,7 @@
     <property name="created">2019-03-26T15:23:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-06-04T09:13:12</property>
+    <property name="modified">2019-09-20T11:59:30</property>
     <property name="originalScheme">Dimmed Ocean copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -479,7 +479,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a4bd8d" />
+        <option name="FOREGROUND" value="deca6d" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -597,7 +597,12 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ce8672" />
+        <option name="FOREGROUND" value="cecb31" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="84dec1" />
       </value>
     </option>
     <option name="HTML_CODE">
