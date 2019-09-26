@@ -3,6 +3,7 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingLevelCount" value="3" />
     <option name="tagTreeHighlightingOpacity" value="54" />
   </component>
