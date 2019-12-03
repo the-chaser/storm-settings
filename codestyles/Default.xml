@@ -4,6 +4,9 @@
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_KEEP_BLANK_LINES" value="0" />
   <option name="HTML_QUOTE_STYLE" value="None" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_QUOTE_STYLE" value="None" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
