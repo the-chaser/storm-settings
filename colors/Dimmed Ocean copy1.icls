@@ -4,7 +4,7 @@
     <property name="created">2019-03-26T15:23:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-11-20T14:50:08</property>
+    <property name="modified">2019-12-11T17:08:16</property>
     <property name="originalScheme">Dimmed Ocean copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -70,9 +70,24 @@
         <option name="FOREGROUND" value="cae682" />
       </value>
     </option>
+    <option name="BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="f6f3e8" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="BLADE_BAD_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="BLADE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="505b66" />
       </value>
     </option>
     <option name="BLADE_DIRECTIVE">
