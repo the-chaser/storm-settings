@@ -9,15 +9,18 @@
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
+    <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
+    <option name="themedScrollbars" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabOpacity" value="100" />
     <option name="treeFontSize" value="14" />
     <option name="highlightThickness" value="1" />
     <option name="leftTreeIndent" value="2" />
     <option name="rightTreeIndent" value="4" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="15" />
     <option name="accentColor" value="009688" />
     <option name="highlightColor" value="adff16" />
