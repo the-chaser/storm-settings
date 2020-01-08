@@ -2,6 +2,10 @@
   <component name="CodeInsightSettings">
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="11" />
+    <option name="LINE_SPACING" value="1.1" />
+  </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
