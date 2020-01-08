@@ -4,7 +4,7 @@
     <property name="created">2020-01-08T14:35:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-08T15:43:43</property>
+    <property name="modified">2020-01-08T16:34:07</property>
     <property name="originalScheme">_@user_Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1033,12 +1033,12 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="f1ff" />
+        <option name="FOREGROUND" value="458a9c" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="d5d4c5" />
+        <option name="FOREGROUND" value="458a9c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2835,7 +2835,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="71ef78" />
+        <option name="FOREGROUND" value="93ef9d" />
       </value>
     </option>
     <option name="PROPERTIES.KEY">
