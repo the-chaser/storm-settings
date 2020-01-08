@@ -4,7 +4,7 @@
     <property name="created">2020-01-08T14:35:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-08T14:43:19</property>
+    <property name="modified">2020-01-08T15:13:27</property>
     <property name="originalScheme">_@user_Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -59,7 +59,7 @@
     <option name="FILESTATUS_modifiedOutside" value="e2b93d" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="122d42" />
     <option name="GUTTER_BACKGROUND" value="11627" />
-    <option name="INDENT_GUIDE" value="84d81" />
+    <option name="INDENT_GUIDE" value="82841" />
     <option name="INFORMATION_HINT" value="11627" />
     <option name="LINE_NUMBERS_COLOR" value="4b6479" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c5e4fd" />
@@ -190,6 +190,12 @@
       <value>
         <option name="FOREGROUND" value="4babb8" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BLADE_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
@@ -354,9 +360,22 @@
         <option name="FOREGROUND" value="ffcb8b" />
       </value>
     </option>
+    <option name="CSS.COLON">
+      <value>
+        <option name="FOREGROUND" value="ff74f8" />
+        <option name="BACKGROUND" value="11627" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="ffea7d" />
+      </value>
+    </option>
+    <option name="CSS.DOT">
+      <value>
+        <option name="FOREGROUND" value="79ffc2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
@@ -376,14 +395,14 @@
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ea8fb1" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="d9a1ff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="32424a" />
       </value>
     </option>
     <option name="CSS.OPERATORS">
@@ -403,12 +422,13 @@
     </option>
     <option name="CSS.PSEUDO">
       <value>
-        <option name="FOREGROUND" value="addb67" />
+        <option name="FOREGROUND" value="9db5c5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ff6363" />
+        <option name="FOREGROUND" value="1bb494" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -997,8 +1017,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="addb67" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ff877c" />
       </value>
     </option>
     <option name="HTML_CODE">
@@ -1012,6 +1031,7 @@
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="7fdbca" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PARAMETER_NAME">
@@ -2720,12 +2740,12 @@
     </option>
     <option name="PHP_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="1ec9ff" />
       </value>
     </option>
     <option name="PHP_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="1ec9ff" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
@@ -2735,7 +2755,7 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="1ec9ff" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
@@ -2760,6 +2780,16 @@
         <option name="FOREGROUND" value="d6deeb" />
       </value>
     </option>
+    <option name="PHP_PRIVATE_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="1ec9ff" />
+      </value>
+    </option>
+    <option name="PHP_PROTECTED_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="1ec9ff" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
@@ -2773,8 +2803,13 @@
     </option>
     <option name="PHP_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="1ec9ff" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_STRING">
+      <value>
+        <option name="FOREGROUND" value="fffe86" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -3269,6 +3304,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="SASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ff0cc6" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -3283,6 +3323,12 @@
     <option name="SASS_PROPERTY_VALUE">
       <value>
         <option name="FOREGROUND" value="1ec9ff" />
+      </value>
+    </option>
+    <option name="SASS_PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="c57bb2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
