@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="arrowsStyle" value="Darcula" />
-    <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -27,6 +26,6 @@
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="617f5b6a:164d3083c0a:-7fff" />
     <option name="version" value="4.11.4" />
-    <option name="tabHighlightPosition" value="Full" />
+    <option name="tabHighlightPosition" value="Left-Right" />
   </component>
 </application>
