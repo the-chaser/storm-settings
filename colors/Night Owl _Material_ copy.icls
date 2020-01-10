@@ -4,7 +4,7 @@
     <property name="created">2020-01-08T14:35:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-10T14:03:53</property>
+    <property name="modified">2020-01-10T15:02:41</property>
     <property name="originalScheme">_@user_Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -3493,7 +3493,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d6deeb" />
-        <option name="BACKGROUND" value="1c27" />
+        <option name="BACKGROUND" value="d27" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
